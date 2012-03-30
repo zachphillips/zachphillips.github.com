@@ -11,11 +11,11 @@ Did you ever make a little smiley face with a colon and a close-parenthesis? Was
 
 I repeat: It is exactly as hard to write Markdown as it is to make a sad-face.
 
-	Here's a paragraph.
+    Here's a paragraph.
 
-	Here's another paragraph. See, all I did was leave a line in between.
+    Here's another paragraph. See, all I did was leave a line in between.
 
-	##Here's a Level Two heading. Just a couple of pound signs.
+    ##Here's a Level Two heading. Just a couple of pound signs.
 
 ## And this is what a Level Two heading looks like (in this context)
 

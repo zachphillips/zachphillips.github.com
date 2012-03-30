@@ -1,11 +1,14 @@
 ---
 layout: page
 title: zachphillips
-tagline: bear with me
 ---
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<div class="posts">
+  {% for post in site.posts limit:5 %}
+    <div class="post">
+		  {% if post.link %}<h1><a href="{{ post.link }}">{{ post.title }}</a></h1><a href="{{ post.link }}"><p class="small"><em>{{ post.link }}→</em></p></a>{% else %}<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>{% endif %}
+			{{ post.content }}
+			<h4>Posted {{ post.date | date: "%A, %B %d, %Y" }}</h4>
+		</div>
   {% endfor %}
-</ul>
+</div>
