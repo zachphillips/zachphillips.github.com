@@ -1,10 +1,7 @@
 ---
-date: '2011-11-14 16:06:00'
 layout: post
-slug: mg-seigler-on-consumer-reports
-status: publish
-title: ★ MG Seigler on Consumer Reports
-wordpress_id: '275'
+title: MG Seigler on Consumer Reports
+link: http://techcrunch.com/2011/11/14/rip-spec/
 ---
 
 > The NPD Group just released their latest numbers. The number one selling smartphone last quarter was the iPhone 4. The over-a-year-old phone which Consumer Reports refused to endorse over a year ago, remember. Meanwhile, the number two phone for the quarter? The two-year-old iPhone 3GS. Does anyone really think that the LG Thrill is going to outsell the iPhone 4S this quarter? What about the Motorola Droid Bionic? Maybe the Samsung Galaxy S II?

@@ -1,10 +1,6 @@
 ---
-date: '2011-12-24 16:02:05'
 layout: post
-slug: truman-toland-christmas-cards
-status: publish
-title: ★ Truman Toland Christmas Cards
-wordpress_id: '377'
+title: Truman Toland Christmas Cards
 ---
 
 My grandfather [died this fall](http://zach.be/2011/10/truman-toland-1922-2011/). He was 89.

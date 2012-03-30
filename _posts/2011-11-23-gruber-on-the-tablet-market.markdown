@@ -1,10 +1,7 @@
 ---
-date: '2011-11-23 18:09:37'
 layout: post
-slug: gruber-on-the-tablet-market
-status: publish
-title: ★ Gruber on the Tablet "Market"
-wordpress_id: '355'
+title: Gruber on the Tablet "Market"
+link: http://daringfireball.net/2011/11/fun_with_numbers
 ---
 
 

@@ -1,21 +1,7 @@
 ---
-date: '2010-02-07 04:18:22'
 layout: post
-slug: scrabble-and-an-internet-idol
-status: publish
-title: ★ Scrabble and an Internet Idol
-wordpress_id: '78'
-tags:
-- Apple Inc.
-- internet show
-- iphone
-- ITunes
-- Scrabble
-- words with friends
-- ze frank
+title: Scrabble and an Internet Idol
 ---
-
-
 
 Ze Frank was the first web show I ever watched, and in my view, it still sets the standard for what an internet show should be. When I originally planned to start my own blog, years ago, the idea was to try and do something like Ze did.
 

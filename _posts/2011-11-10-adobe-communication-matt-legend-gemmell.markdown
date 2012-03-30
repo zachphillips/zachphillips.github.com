@@ -1,10 +1,7 @@
 ---
-date: '2011-11-10 15:51:31'
 layout: post
-slug: adobe-communication-matt-legend-gemmell
-status: publish
-title: ★ Adobe Communication - Matt Legend Gemmell
-wordpress_id: '262'
+title: Adobe Communication - Matt Legend Gemmell
+link: http://mattgemmell.com/2011/11/09/adobe-communication/
 ---
 
 > Don’t accept biz-speak as the right solution, regardless of how ubiquitous it is.

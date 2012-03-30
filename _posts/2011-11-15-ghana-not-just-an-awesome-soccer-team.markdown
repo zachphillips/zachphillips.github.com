@@ -1,12 +1,8 @@
 ---
-date: '2011-11-15 10:40:04'
 layout: post
-slug: ghana-not-just-an-awesome-soccer-team
-status: publish
-title: '★ Ghana: Not Just an Awesome Soccer Team'
-wordpress_id: '305'
+title: 'Ghana: Not Just an Awesome Soccer Team'
+link: http://www.youtube.com/watch?v=jfLHKDJD9yI
 ---
-
 
 
 I love this. In so many ways.

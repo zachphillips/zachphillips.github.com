@@ -1,10 +1,6 @@
 ---
-date: '2011-10-24 01:00:58'
 layout: post
-slug: what-i-wrote-during-my-trial-of-ommwriter-dana-ii
-status: publish
-title: ★ What I Wrote During My Trial of OmmWriter Dana II
-wordpress_id: '259'
+title: What I Wrote During My Trial of OmmWriter Dana II
 ---
 
 Now _this_ is a distraction free writing environment.

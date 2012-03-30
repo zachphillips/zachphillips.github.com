@@ -1,30 +1,6 @@
 ---
-date: '2010-02-07 23:56:16'
 layout: post
-slug: benefactor-meditation
-status: publish
-title: ★ Benefactor Meditation
-wordpress_id: '83'
-tags:
-- allergy attack
-- Belief
-- compassion
-- Cuba
-- Don
-- Dzogchen
-- Foundation for Active Compassion
-- Havana
-- hydrocortisone
-- Joel Baehr
-- John Makransky
-- Magnolia
-- meditation
-- meditation group
-- meditation practice
-- Olivia
-- Religion/Belief
-- spirituality
-- tibetan buddhist teacher
+title: Benefactor Meditation
 ---
 
 I was applying some hydrocortisone to a rash today (I don't often get rashes, don't worry), and I thought I should post something about spirituality, and specifically a certain meditation practice that I learned from a Tibetan Buddhist teacher named Joel Baehr.

@@ -1,10 +1,7 @@
 ---
-date: '2011-11-10 16:06:25'
 layout: post
-slug: why-the-qr-code-is-failing-single-page-view-imediaconnection-com
-status: publish
-title: ★ Why the QR code is failing (single page view) - iMediaConnection.com
-wordpress_id: '266'
+title: Why the QR code is failing (single page view) - iMediaConnection.com
+link: http://www.imediaconnection.com/content/30267.asp
 ---
 
 

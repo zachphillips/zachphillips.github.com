@@ -1,10 +1,6 @@
 ---
-date: '2010-11-20 12:30:51'
 layout: post
-slug: ipod-to-the-face
-status: publish
-title: ★ iPod to the Face!
-wordpress_id: '130'
+title: iPod to the Face!
 ---
 
 We shot a short film in Central Park this summer (working title: Benny's Blues), and in the first hour of shooting we had a significant problem to solve.

@@ -1,18 +1,6 @@
 ---
-date: '2010-02-02 01:38:40'
 layout: post
-slug: the-pieta-of-michelangelo
-status: publish
-title: ★ A Review of Michelangelo's Pietá
-wordpress_id: '36'
-tags:
-- Christ
-- Italy
-- Michelangelo
-- Pietá
-- Rome
-- St. Peter
-- statue
+title: A Review of Michelangelo's Pietá
 ---
 
 > This is an excerpt from a post I wrote four years ago when I was studying abroad in Italy.

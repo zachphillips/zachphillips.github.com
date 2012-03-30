@@ -1,16 +1,6 @@
 ---
-date: '2010-02-01 00:20:45'
 layout: post
-slug: the-only-thing-that-has-ever-mattered-about-the-ipad
-status: publish
-title: ★ Why the iPad Matters
-wordpress_id: '4'
-tags:
-- iPad
-- iphone
-- iPod
-- technology
-- Touch
+title: Why the iPad Matters
 ---
 
 Okay, so there have been quite a few articles and premature reviews on the iPad, and (though I have not done a formal count) it appears that most of them are claiming that somehow this is a big letdown: "It's just a big iPod Touch..."

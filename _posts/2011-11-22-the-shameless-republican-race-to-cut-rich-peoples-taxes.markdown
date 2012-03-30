@@ -1,10 +1,7 @@
 ---
-date: '2011-11-22 16:31:54'
 layout: post
-slug: the-shameless-republican-race-to-cut-rich-peoples-taxes
-status: publish
-title: ★ The Shameless Republican Race to Cut Rich People's Taxes
-wordpress_id: '353'
+title: The Shameless Republican Race to Cut Rich People's Taxes
+link: http://www.theatlantic.com/business/archive/2011/11/the-shameless-republican-race-to-cut-rich-peoples-taxes/247664/
 ---
 
 

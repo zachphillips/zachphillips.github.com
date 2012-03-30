@@ -1,10 +1,7 @@
 ---
-date: '2011-11-24 08:20:15'
 layout: post
-slug: bob-schieffer-ron-paul-and-journalistic-%e2%80%9cobjectivity%e2%80%9d
-status: publish
-title: ★ Bob Schieffer, Ron Paul and Journalistic “Objectivity”
-wordpress_id: '357'
+title: Bob Schieffer, Ron Paul and Journalistic “Objectivity”
+link: http://www.salon.com/2011/11/24/bob_schieffer_ron_paul_and_journalistic_objectivity/
 ---
 
 Glenn Greenwald:

@@ -1,10 +1,6 @@
 ---
-date: '2010-11-18 21:07:26'
 layout: post
-slug: '121'
-status: publish
-title: ★ Freedom from iPhone Interruptions
-wordpress_id: '121'
+title: Freedom from iPhone Interruptions
 ---
 
 >Do you ever want to put your iPhone in airplane mode to block everyone out? But you can't, because your husband

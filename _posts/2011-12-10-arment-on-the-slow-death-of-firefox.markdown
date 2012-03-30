@@ -1,10 +1,7 @@
 ---
-date: '2011-12-10 15:32:27'
 layout: post
-slug: arment-on-the-slow-death-of-firefox
-status: publish
-title: ★ Arment on the Slow Death of Firefox
-wordpress_id: '375'
+title: Arment on the Slow Death of Firefox
+link: http://www.marco.org/2011/12/03/firefox-faces-uncertain-future
 ---
 
 

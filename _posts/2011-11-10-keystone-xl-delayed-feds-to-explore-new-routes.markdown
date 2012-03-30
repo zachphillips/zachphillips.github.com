@@ -1,10 +1,7 @@
 ---
-date: '2011-11-10 20:41:02'
 layout: post
-slug: keystone-xl-delayed-feds-to-explore-new-routes
-status: publish
-title: ★ Keystone XL Delayed, Feds To Explore New Routes
-wordpress_id: '269'
+title: Keystone XL Delayed, Feds To Explore New Routes
+link: http://www.huffingtonpost.com/2011/11/10/keystone-xl-pipeline-state-department_n_1086319.html
 ---
 
 Or, more accurate headline:

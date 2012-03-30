@@ -1,10 +1,7 @@
 ---
-date: '2011-07-02 07:24:37'
 layout: post
-slug: ernie-kovacs-1812-overture
-status: publish
-title: ★ Ernie Kovacs - 1812 Overture
-wordpress_id: '229'
+title: Ernie Kovacs - 1812 Overture
+link: http://www.dailymotion.com/video/xq2le_1812-overture-ernie-kovacs-show_music
 ---
 
 I was eating eggs with my girlfriend  and listening to NPR this morning and there was a feature story on Ernie Kovacs and how much he influenced the David Lettermans and (especially) Conan O'Briens of today.

@@ -1,10 +1,7 @@
 ---
-date: '2011-11-11 20:25:10'
 layout: post
-slug: pressured-to-name-leader-occupy-denver-elects-dog
-status: publish
-title: ★ Pressured to Name Leader, Occupy Denver Elects Dog
-wordpress_id: '271'
+title: Pressured to Name Leader, Occupy Denver Elects Dog
+link: http://gawker.com/5857715/pressured-to-name-leader-occupy-denver-elects-dog
 ---
 
 

@@ -1,19 +1,6 @@
 ---
-date: '2010-02-10 21:09:09'
 layout: post
-slug: exposure-of-a-terrible-ncaa-basketball-rule
-status: publish
-title: ★ Exposure of a Terrible NCAA Basketball Rule
-wordpress_id: '93'
-tags:
-- Andy Rautins
-- Connecticut Huskies
-- Jim Boeheim
-- National Collegiate Athletics Association
-- NCAA
-- sports
-- Syracuse
-- Syracuse Orangemen
+title: Exposure of a Terrible NCAA Basketball Rule
 ---
 
 Tonight, the Syracuse Orangemen beat the Connecticut Huskies in a game that came down to the wire, and was ultimately tainted.

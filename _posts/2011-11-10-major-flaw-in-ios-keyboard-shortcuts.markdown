@@ -1,10 +1,6 @@
 ---
-date: '2011-11-10 16:33:49'
 layout: post
-slug: major-flaw-in-ios-keyboard-shortcuts
-status: publish
-title: ★ Major Flaw in iOS Keyboard "Shortcuts"
-wordpress_id: '268'
+title: Major Flaw in iOS Keyboard "Shortcuts"
 ---
 
 Though it's awesome that Apple has created the ability to enable some universal custom auto-completion in iOS, it's implemented in a very poor and arbitrary way.

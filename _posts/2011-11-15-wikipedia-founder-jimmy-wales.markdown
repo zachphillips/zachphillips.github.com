@@ -1,10 +1,7 @@
 ---
-date: '2011-11-15 22:35:37'
 layout: post
-slug: wikipedia-founder-jimmy-wales
-status: publish
-title: ★ Wikipedia Founder Jimmy Wales
-wordpress_id: '314'
+title: Wikipedia Founder Jimmy Wales
+link: http://slashdot.org/story/04/07/28/1351230/wikipedia-founder-jimmy-wales-responds
 ---
 
 

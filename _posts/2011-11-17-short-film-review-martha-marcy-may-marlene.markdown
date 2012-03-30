@@ -1,10 +1,6 @@
 ---
-date: '2011-11-17 06:54:19'
 layout: post
-slug: short-film-review-martha-marcy-may-marlene
-status: publish
-title: ★ Short Film Review - Martha Marcy May Marlene
-wordpress_id: '318'
+title: Short Film Review - Martha Marcy May Marlene
 ---
 
 Elizabeth Olsen (the younger sister of the Olsen Twins) _definitely_ deserves an Oscar nod for this role. She was Oscar-good. Completely blew me away. This is just the beginning for her.

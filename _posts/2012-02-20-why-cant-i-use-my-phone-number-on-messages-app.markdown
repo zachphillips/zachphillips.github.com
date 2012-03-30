@@ -1,10 +1,6 @@
 ---
-date: '2012-02-20 00:56:26'
 layout: post
-slug: why-cant-i-use-my-phone-number-on-messages-app
-status: publish
-title: ★ Why Can't I Use My Phone Number on Messages.app?
-wordpress_id: '387'
+title: Why Can't I Use My Phone Number on Messages.app?
 ---
 
 The iMessage protocol doesn't actually use a phone number as anything other than a unique identifier. What this means is that if you try to send a text message to someone and you are doing it from an iMessage-capable app (which right now only officially exists on the iPhone and iPad), a request is sent to Apple's server to see if the person's number you are sending to corresponds to another iMessage-capable customer. If the answer comes back yes, the app forgoes creating a traditional SMS  clump to send over the channels reserved (and metered) for phone calls and text messages and instead sends the message as regular data through the iMessage protocol.

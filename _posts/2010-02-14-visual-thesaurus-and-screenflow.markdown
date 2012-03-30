@@ -1,16 +1,6 @@
 ---
-date: '2010-02-14 08:00:24'
 layout: post
-slug: visual-thesaurus-and-screenflow
-status: publish
-title: ★ Visual Thesaurus and ScreenFlow
-wordpress_id: '106'
-tags:
-- Screencast
-- ScreenFlow
-- Telestream
-- Thesaurus
-- Visual Thesaurus
+title: Visual Thesaurus and ScreenFlow
 ---
 
 

@@ -1,10 +1,6 @@
 ---
-date: '2011-11-27 14:40:27'
 layout: post
-slug: you-should-be-writing-with-markdown
-status: publish
-title: ★ You Should be Writing with Markdown
-wordpress_id: '361'
+title: You Should be Writing with Markdown
 ---
 
 > Markdown nerds, this is not for you. This is for regular folks who need to start using Markdown. Go away.

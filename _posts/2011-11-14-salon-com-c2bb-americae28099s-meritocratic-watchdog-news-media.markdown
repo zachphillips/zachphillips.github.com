@@ -1,10 +1,7 @@
 ---
-date: '2011-11-14 07:55:35'
 layout: post
-slug: salon-com-%c2%bb-america%e2%80%99s-meritocratic-watchdog-news-media
-status: publish
-title: ★ Salon.com » America’s Meritocratic, Watchdog News Media
-wordpress_id: '282'
+title: Salon.com » America’s Meritocratic, Watchdog News Media
+link: http://www.salon.com/2011/11/14/americas_meritocratic_watchdog_news_media/
 ---
 
 

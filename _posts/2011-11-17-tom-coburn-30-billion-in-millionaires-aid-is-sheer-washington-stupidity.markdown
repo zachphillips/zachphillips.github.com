@@ -1,10 +1,6 @@
 ---
-date: '2011-11-17 10:58:07'
 layout: post
-slug: tom-coburn-30-billion-in-millionaires-aid-is-sheer-washington-stupidity
-status: publish
-title: '★ Tom Coburn: $30 Billion In Millionaires Aid Is ''Sheer Washington Stupidity'''
-wordpress_id: '295'
+title: Tom Coburn: $30 Billion In Millionaires Aid Is "Sheer Washington Stupidity"
 ---
 
 Tom Coburn, the Republican Senator from Oklahoma:

@@ -1,30 +1,6 @@
 ---
-date: '2010-02-05 00:49:46'
 layout: post
-slug: remember-greenland
-status: publish
-title: ★ Remember Greenland?
-wordpress_id: '58'
-tags:
-- 6 degrees of separation
-- Denmark
-- fjords
-- God
-- Greenland
-- Grenada
-- inuit
-- inuit people
-- Laos
-- Luxembourg
-- Malta
-- New York
-- Princess Bride
-- separation theory
-- six degrees of separation
-- South Africa
-- Swaziland
-- Syracuse
-- Wallace Shawn
+title: Remember Greenland?
 ---
 
 I've been alive now for more than twenty-seven years, and other than one accusatory line from Wallace Shawn in _The Princess Bride_ and a few brief mentions when trying to label everything on a North American map as a third-grader (I was a smart-ass), I have not heard the Nation of Greenland mentioned once. They are the world's largest island (true fact), our North American neighbors—and I think they might be hiding from us.

@@ -1,16 +1,6 @@
 ---
-date: '2010-11-24 10:01:51'
 layout: post
-slug: the-friendly-mailman-or-how-turning-off-email-notifications-has-changed-my-life
-status: publish
-title: ★ The Friendly Mailman or How Turning Off Email Notifications has Changed My
-  Life
-wordpress_id: '140'
-tags:
-- 43folders
-- distractions
-- email notifications
-- merlin mann
+title: The Friendly Mailman or How Turning Off Email Notifications has Changed My Life
 ---
 
 > Note: I am writing this post in a WiFi enabled airplane, and hopefully finishing in time to post it. UPDATE: Just as I was about to post, a voice came over the intercom to tell me to arbitrarily return my tray-table to the upright position and put away my toys and crayons and sit up straight and stop talking to my neighbor... Oh well. Next time.

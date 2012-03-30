@@ -1,10 +1,7 @@
 ---
-date: '2011-11-16 09:00:10'
 layout: post
-slug: congress-fights-to-keep-pizza-and-fries
-status: publish
-title: ★ Congress Fights To Keep Pizza And Fries
-wordpress_id: '310'
+title: Congress Fights To Keep Pizza And Fries
+link: http://www.huffingtonpost.com/2011/11/15/congress-pushes-back-on-h_1_n_1094764.html
 ---
 
 I remember that when I was in high school and there were two choices of lines.

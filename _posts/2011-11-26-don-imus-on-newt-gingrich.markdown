@@ -1,10 +1,7 @@
 ---
-date: '2011-11-26 07:48:00'
 layout: post
-slug: don-imus-on-newt-gingrich
-status: publish
-title: ★ Don Imus on Newt Gingrich
-wordpress_id: '350'
+title: Don Imus on Newt Gingrich
+link: http://www.mediaite.com/tv/don-imus-calls-newt-gingrich-distgusting-and-a-fat-repulsive-pig/
 ---
 
 

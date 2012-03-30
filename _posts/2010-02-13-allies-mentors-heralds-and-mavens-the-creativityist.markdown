@@ -1,27 +1,7 @@
 ---
-date: '2010-02-13 08:00:27'
 layout: post
-slug: allies-mentors-heralds-and-mavens-the-creativityist
-status: publish
-title: '★ Allies, Mentors, Heralds, and Mavens: the Creativityist'
-wordpress_id: '101'
-tags:
-- artist
-- Austin
-- Creativityist
-- John Chandler
-- Mac
-- software addict
-- software solutions
-- Texas
-- Workflow
+title: The Creativityist
 ---
-
-**The greatest thing about the age we live in today is the fact that you don't necessarily need to _know_ anything. The key to navigating and surviving the information jungle is to know _how and where to find exactly what you need_.**
-
-**No need to reinvent the wheel or to rewrite a book there are already five good versions of.**
-
-**In Allies, Mentors, Heralds, and Mavens, I will tell you about some of the sources where I get my information. These are people who have proven to me time and again to be elegant and thorough in their unrelenting search for what we all want: The best of everything.**
 
 I am what you might refer to as a software addict. I love finding new and useful applications to help me with all areas of my life and workflow. I take this obsession to the extreme, as is my tendency, and I often spend hours and days and weeks trialing different software and finding ways to get it into my workflow. Ironically, I am usually doing this at the expense of progress on any of my actual _work_.
 

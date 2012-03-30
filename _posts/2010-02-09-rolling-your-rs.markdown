@@ -1,15 +1,6 @@
 ---
-date: '2010-02-09 01:08:49'
 layout: post
-slug: rolling-your-rs
-status: publish
-title: ★ Rolling Your R's
-wordpress_id: '88'
-tags:
-- italian
-- r rolling
-- step-by-step solution
-- The Fresh Prince of Bel-Air
+title: Rolling Your R's
 ---
 
 Here at zach.be, it isn't all fun and games; We also aspire to help people achieve their goals and dreams. Sometimes in life, you run into roadblocks that seem impossible to get around. This can be very disheartening. At zach.be, we're here to remind you that there is _always _a solution.

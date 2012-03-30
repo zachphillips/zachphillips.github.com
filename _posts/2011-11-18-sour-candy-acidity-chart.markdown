@@ -1,10 +1,7 @@
 ---
-date: '2011-11-18 07:40:29'
 layout: post
-slug: sour-candy-acidity-chart
-status: publish
-title: ★ Sour Candy Acidity Chart
-wordpress_id: '320'
+title: Sour Candy Acidity Chart
+link: http://kottke.org/11/11/acidic-candy
 ---
 
 
