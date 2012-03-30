@@ -54,6 +54,7 @@ pre {
 	background:#666;
 	margin:10px -20px 10px -20px;
 	padding:20px;
+	overflow:scroll;
 }
 
 code {
@@ -86,7 +87,13 @@ div.pagination ul li {
 	list-style:none;
 	float:left;
 	width:30%;
+	margin:0;
 	line-height:20px;
+}
+
+div.pagination ul li.prev {
+	width:34%;
+	margin-left:-15px;
 }
 
 .navbar {

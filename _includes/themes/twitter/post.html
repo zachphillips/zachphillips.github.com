@@ -5,9 +5,9 @@
     <div class="pagination">
       <ul>
       {% if page.previous %}
-        <li><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
       {% else %}
-        <li class="disabled"><a>&larr; Previous</a></li>
+        <li class="prev disabled"><a>&larr; Previous</a></li>
       {% endif %}
         <li><a href="/">Home</a></li>
       {% if page.next %}
