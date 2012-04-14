@@ -3,6 +3,8 @@ layout: post
 title: Embark
 ---
 
+<iframe src="http://player.vimeo.com/video/32593207" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe>
+
 This looks like a nice app for navigating mass transit. You can be fairly certain a product is good when [@sandwichvideo](https://twitter.com/#!/sandwichvideo) gets involved. Adam Lisagor ([@lonelysandwich](https://twitter.com/#!/lonelysandwich)) gets a _lot_ of enquiries and so when he accepts a video project, it can be safely regarded as a stamp of approval from a trusted source. 
 
 The video usually turns out pretty good too. He likes to show the viewer exactly how a product will be useful to them.
