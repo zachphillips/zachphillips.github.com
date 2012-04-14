@@ -9,15 +9,13 @@ How odd, I thought, because a) the Huffington Post usually does not publish arti
 
 I was then disappointed to discover that many other semi-trusted news sources had also picked up the story, including NPR. I was further disappointed when none of them did their jobs as journalists, to point out the obvious spin being thrown in the very premise of this study:
 
+Rob Stein, _The Washington Post_:
 
 > Sex education classes that focus on encouraging children to remain abstinent can persuade a significant proportion to delay sexual activity, researchers reported Monday in a landmark [study](http://archpedi.ama-assn.org/cgi/content/short/164/2/152?home) that could have major implications for U.S. efforts to protect young people against unwanted pregnancies and sexually transmitted diseases.
 
 > Only about a third of sixth- and seventh-graders who completed an abstinence-focused program started having sex within the next two years, researchers found. Nearly half of the students who attended other classes, including ones that combined information about abstinence and contraception, became sexually active.
 
 > The findings are the first clear evidence that an abstinence program could work.
-
-> —Rob Stein, _The Washington Post_
-
 
 Okay, so I'm going to step right over all of the initial shadiness about the study (why 12 and 13-year-olds?, what does _abstinence-focused _mean?, apparently this was a totally new technique with new role-playing games?, condoms weren't disparaged?, why was this study on black children only?) and I'll just hand them totally reasonable, scientific, slam-dunk answers to all these questions. Still, we're left with one glaring flaw: What is the point of sex-education?
 
