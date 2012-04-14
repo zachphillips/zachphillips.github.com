@@ -32,3 +32,5 @@ I hope this isn't the case, but if it were, one might suppose that an Apple ID e
 Another possibility is that Apple didn't want to spend the couple hundred dollars on a text-message opt-in for verifying the true owner of the phone number in the non-iPhone apps. They already have a whole ecosystem of Apple IDs (different from iCloud IDs), and so maybe they were just lazy.
 
 Regardless of the reason, one thing I'm not going to do is to start sending text messages from a fucking email address. And neither will anyone else.
+
+#####My bad: The Palm Treo had threaded SMS messages. [Matt Ginzton](https://twitter.com/#!/metamatt) set me straight on that. The Treo had, and still has, a dedicated fan base. The iPhone was my first introduction, and I would wager that's the case for most people. But Matt's right. [Must give credit where it's due](https://twitter.com/#!/metamatt/status/190958311795990528).
