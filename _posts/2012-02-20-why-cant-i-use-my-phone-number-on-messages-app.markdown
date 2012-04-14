@@ -3,6 +3,8 @@ layout: post
 title: Why Can't I Use My Phone Number on Messages.app?
 ---
 
+###Update: [Gruber responded](http://daringfireball.net/linked/2012/04/13/zach-phillips) (!!!). (Glad I got the blog on Jekyll last week...) He hates my idea. So I followed up [here](http://zach.be/2012/04/john-gruber-on-imessages/).
+
 The iMessage protocol doesn't actually use a phone number as anything other than a unique identifier. What this means is that if you try to send a text message to someone and you are doing it from an iMessage-capable app (which right now only officially exists on the iPhone and iPad), a request is sent to Apple's server to see if the person's number you are sending to corresponds to another iMessage-capable customer. If the answer comes back yes, the app forgoes creating a traditional SMS  clump to send over the channels reserved (and metered) for phone calls and text messages and instead sends the message as regular data through the iMessage protocol.
 
 The practical result for the user on the other end is that the message is slightly slower (usually) to arrive, but it doesn't count against any text message quotas they may have set up with their carrier. And it's blue. There are other subtle differences, but the service is meant as (or as I will explain, _should_ be meant as) a replacement and enhancement to traditional SMS. One obvious possible benefit over SMS would be the ability, while sitting at a computer or iPad, to respond from a quick window with full keyboard at hand. For me it always feels a bit silly pulling my phone out of my pocket and typing a text message on a little screen while I have a full-sized keyboard in front of me.
