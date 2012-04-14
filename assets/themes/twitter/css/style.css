@@ -37,6 +37,10 @@ h5 {
 	margin-top:-10px;
 }
 
+h6 {
+	font-size:1em;
+}
+
 iframe {
 	width:100%;
 	height:210px;
