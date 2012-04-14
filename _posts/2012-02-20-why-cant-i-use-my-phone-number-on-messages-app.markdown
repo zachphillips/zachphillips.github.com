@@ -33,6 +33,6 @@ Another possibility is that Apple didn't want to spend the couple hundred dollar
 
 Regardless of the reason, one thing I'm not going to do is to start sending text messages from a fucking email address. And neither will anyone else.
 
-   
+<p></p>
 
 #####My bad: The Palm Treo had threaded SMS messages. [Matt Ginzton](https://twitter.com/#!/metamatt) set me straight on that. The Treo had, and still has, a dedicated fan base. The iPhone was my first introduction, and I would wager that's the case for most people. But Matt's right. [Must give credit where it's due](https://twitter.com/#!/metamatt/status/190958311795990528).
