@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the QR code is failing (single page view) - iMediaConnection.com
+title: Why the QR code is failing
 link: http://www.imediaconnection.com/content/30267.asp
 ---
 
