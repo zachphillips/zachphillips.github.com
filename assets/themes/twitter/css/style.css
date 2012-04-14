@@ -19,7 +19,7 @@ a:hover {
 p {
 	font-weight:normal;
 	font-style:normal;
-	line-height:1.2em;
+	line-height:1.3em;
 }
 
 h1 {
@@ -33,8 +33,8 @@ h4 {
 }
 
 h5 {
-	margin-bottom:17px;
-	margin-top:0px;
+	margin-bottom:22px;
+	margin-top:-10px;
 }
 
 iframe {
