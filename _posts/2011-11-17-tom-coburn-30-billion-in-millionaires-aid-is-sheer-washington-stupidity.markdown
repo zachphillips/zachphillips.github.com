@@ -9,6 +9,6 @@ Tom Coburn, the Republican Senator from Oklahoma:
 
 Two possibilities:
 
-1. Coburn really is a principled conservative
+1. Coburn is actually a principled conservative
 2. He's actually been reading the [polls](http://www.washingtonpost.com/business/economy/poll-shows-most-see-deepening-wealth-gap/2011/11/08/gIQAecJs3M_story.html) lately
 
