@@ -19,6 +19,7 @@ a:hover {
 p {
 	font-weight:normal;
 	font-style:normal;
+	line-height:1.1em;
 }
 
 h1 {
@@ -29,6 +30,10 @@ h1 {
 h4 {
 	font-size:.7em;
 	margin-bottom:0;
+}
+
+h5 {
+	margin-bottom:12px;
 }
 
 iframe {
