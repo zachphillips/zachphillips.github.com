@@ -59,12 +59,14 @@ blockquote p {
 }
 
 aside.gohome {
-	font-family:Arial;
+	font-size:1.5em;
+	top:0;
+	font-family:Helvetica;
 	position:absolute;
 }
 
 aside.twitter {
-	margin-left:22px;
+	margin-left:21px;
 	margin-bottom:-10px;
 	padding-top:2px;
 	text-align:left;
@@ -84,6 +86,7 @@ aside.twitter a {
 	}
 	
 	aside.gohome {
+		top:12px;
 		position:fixed;
 	}
 	
