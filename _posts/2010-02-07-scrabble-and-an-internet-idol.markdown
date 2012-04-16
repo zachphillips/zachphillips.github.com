@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Scrabble and an Internet Idol
+link: http://www.zefrank.com/theshow/archives/2006/11/112706.html
 ---
+
+
 
 Ze Frank was the first web show I ever watched, and in my view, it still sets the standard for what an internet show should be. When I originally planned to start my own blog, years ago, the idea was to try and do something like Ze did.
 
