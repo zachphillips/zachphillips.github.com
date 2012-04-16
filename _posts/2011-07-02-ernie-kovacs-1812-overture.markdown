@@ -4,6 +4,8 @@ title: Ernie Kovacs - 1812 Overture
 link: http://www.dailymotion.com/video/xq2le_1812-overture-ernie-kovacs-show_music
 ---
 
+<iframe frameborder="0" src="http://www.dailymotion.com/embed/video/xq2le"> </iframe>
+
 I was eating eggs with my girlfriend  and listening to NPR this morning and there was a feature story on Ernie Kovacs and how much he influenced the David Lettermans and (especially) Conan O'Briens of today.
 
 I grew up watching an Ernie Kovacs VHS boxed set with *both* of my grandfathers. Like a lot of comedy that is from another temporal or cultural context, it can take some effort to open your mind to a different kind of humor than you are used to. The most certain way to *get* a joke is to experience it with someone who is (literally) slapping their knee. I was very lucky to have my grandfathers for that.

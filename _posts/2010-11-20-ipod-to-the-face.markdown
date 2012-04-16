@@ -21,7 +21,9 @@ So someone had the simple, ingenious idea to just pantomime the action and shoot
 
 However, as simple as the concept of chroma-keying is, I find when I told people I would just shoot the iPod later and then put it in this shot, I was met with blank stares and "Whatever you say"s and "I don't know how you are going to do that, but okay"s.
 
-So I thought I may as well put up a quick screencast to describe how this is done.
+So I thought I may as well put up a quick screencast to describe how this is done:
+
+<iframe src="http://player.vimeo.com/video/17032554" frameborder="0"> </iframe>
 
 >This is not a tutorial. If you want to learn how to do a simple chroma key composite, there are a million resources out there for you. This video is intended only to help people understand what this is, and how simple it can be when you have the right tools.
 

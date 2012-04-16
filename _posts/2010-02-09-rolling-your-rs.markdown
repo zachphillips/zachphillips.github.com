@@ -47,3 +47,5 @@ And that's it. It sounds silly, but it works. Please pass this along to anyone y
 Here is the video that changed my life. The first few seconds are all that matters:
 
 
+<iframe src="http://www.youtube.com/embed/Y04nxuL-CmE?rel=0" frameborder="0"> </iframe>
+

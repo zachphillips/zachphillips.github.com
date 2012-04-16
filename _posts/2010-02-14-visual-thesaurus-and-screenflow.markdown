@@ -3,7 +3,7 @@ layout: post
 title: Visual Thesaurus and ScreenFlow
 ---
 
-
+<iframe src="http://www.youtube.com/embed/4xNG7Zqsi9s?rel=0" frameborder="0"> </iframe>
 
 I am not a guy who uses a thesaurus much. I don't have a very large vocabulary, but I try to make use of the words that I do know.
 

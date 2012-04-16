@@ -4,7 +4,7 @@ title: Wordpress Linked List Plug-in by YJ Soon
 link: http://yjsoon.com/dfll-plugin
 ---
 
-**Update: I have since moved this site over to Jekyll and am no longer using this plugin. If you are using Wordpress, my feelings here still apply. I need to post soon about how I've gotten this behavior working in Jekyll.**
+**Update: I have since moved this site over to Jekyll and am no longer using this plugin. If you are using Wordpress, my feelings here still apply. I need to post soon about how I've gotten this behavior working in Jekyll. Oh, and [@yjsoon](http://twitter.com/yjsoon) is still a man among boys.**
 
 I wanted my (dusty, decaying) blog to behave more like [John Gruber](http://daringfireball.net)'s, where I could link to things and comment on them easily. Until now, I've just been using facebook for this. My loathing for facebook and the desire to have a place of my own led to me finally getting around to making the [zach.be](http://zach.be/) blog functional.
 
