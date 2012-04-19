@@ -9,7 +9,7 @@ layout: rss-feed
 		<link>{{ site.url }}</link>
 		{% for post in site.posts %}
 			<item>
-				<title>{{ post.title }}</title>
+				<title>{% if post.link %}Link: {{ post.title }}→{% else %}{{ post.title }}{% endif %}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<published>{{ post.date }}</published>
 				<link>{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</link>
