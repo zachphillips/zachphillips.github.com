@@ -1,0 +1,23 @@
+/usr/local/rvm/rubies/ruby-1.9.3-p125/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require': iconv will be deprecated in the future, use String#encode instead.
+  File "/root/bin/dropbox.py", line 159
+    with open(pidfile, "r") as f:
+            ^
+SyntaxError: invalid syntax
+/usr/local/rvm/rubies/ruby-1.9.3-p125/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb:36:in `require': iconv will be deprecated in the future, use String#encode instead.
+Configuration from /var/www/vhosts/zach.be/_config.yml
+Auto-regenerating enabled: /var/www/vhosts/zach.be -> /var/www/vhosts/zach.be/_site
+[2012-11-04 15:48:00] regeneration: 98 files changed
+[2012-11-04 15:50:28] regeneration: 1 files changed
+[2012-11-04 16:27:56] regeneration: 1 files changed
+[2012-11-04 16:36:36] regeneration: 1 files changed
+[2012-11-04 16:41:36] regeneration: 1 files changed
+[2012-11-04 17:04:34] regeneration: 1 files changed
+[2012-11-04 17:06:27] regeneration: 1 files changed
+[2012-11-04 17:09:21] regeneration: 1 files changed
+Configuration from /var/www/vhosts/zach.be/_config.yml
+Auto-regenerating enabled: /var/www/vhosts/zach.be -> /var/www/vhosts/zach.be/_site
+[2012-11-04 16:36:36] regeneration: 98 files changed
+[2012-11-04 16:41:36] regeneration: 1 files changed
+[2012-11-04 17:04:34] regeneration: 1 files changed
+[2012-11-04 17:06:27] regeneration: 1 files changed
+[2012-11-04 17:09:21] regeneration: 1 files changed
